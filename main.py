@@ -2,7 +2,6 @@ from models import Eleve , Professeur , Note , Matiere
 
 def main():
     while True:
-        print("Bienvenue a tous !")
         print("1. Afficher les eleves ")
         print("2 .Afficher les professeurs")
         print("3. Afficher les matieres")
